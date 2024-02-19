@@ -1,0 +1,12 @@
+.company-name{
+  text-decoration: none;
+}
+.list-group-item a.nav-link {
+      color: #000; /* Set the default text color */
+      text-decoration: none; /* Remove underline */
+    }
+.list-group-item a.nav-link.active,
+.list-group-item a.nav-link:focus,
+.list-group-item a.nav-link:hover {
+  color: #007bff; /* Set the color for active, focused, and hovered states */
+    }
